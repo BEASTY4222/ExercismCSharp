@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SumOfMultiples")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7694a1d7635a8797b168812de8de9f63e2fe5c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1f032835f0cac7c4f54cefa95447323ace7234b")]
 [assembly: System.Reflection.AssemblyProductAttribute("SumOfMultiples")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SumOfMultiples")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
