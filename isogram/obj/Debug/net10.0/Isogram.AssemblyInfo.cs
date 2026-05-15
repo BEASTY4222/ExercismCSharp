@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Isogram")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e339f6632c909e27f89a9fe555034530d4bcf50")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d220964112989a39e67592b867b833574056a705")]
 [assembly: System.Reflection.AssemblyProductAttribute("Isogram")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Isogram")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PigLatin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36d1402571f49c06c41ebbda9fe0ba098abbe874")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d220964112989a39e67592b867b833574056a705")]
 [assembly: System.Reflection.AssemblyProductAttribute("PigLatin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PigLatin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
